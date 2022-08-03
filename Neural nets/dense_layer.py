@@ -23,4 +23,3 @@ layer2 = dense_layer(3,3)
 layer1.forward_pass(X)
 print(layer1.output)
 
-#how the fuck do i edit the parameters ffs
