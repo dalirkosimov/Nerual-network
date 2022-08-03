@@ -1,1 +1,1 @@
-# Nerual-network
+# Nueral networks 
